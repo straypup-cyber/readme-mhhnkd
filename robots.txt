@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://straypup-cyber.github.io/readme-mhhnkd/sitemap.xml
